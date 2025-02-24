@@ -1,0 +1,67 @@
+libraries:
+  Movies - First Lib:
+    collection_files:
+    overlay_files:
+    operations:
+
+  Movies - Paramount:
+    collection_files:
+    overlay_files:
+    operations:
+
+  Netflix - Movies:
+    collection_files:
+    overlay_files:
+    operations:
+
+  TV:
+    metadata_files:
+    collection_files:
+    overlay_files:
+    operations:
+
+  TV - 4K:
+    metadata_files:
+    collection_files:
+    overlay_files:
+    operations:
+
+  Disney - TV:
+    metadata_files:
+    collection_files:
+    overlay_files:
+    operations:
+
+  TV - Test:
+    metadata_files:
+    collection_files:
+    overlay_files:
+    operations:
+
+settings:
+
+plex:
+
+radarr:
+
+sonarr:
+
+tautulli:
+
+mdblist:
+
+tmdb:
+
+trakt:
+
+test:
+
+test2:
+
+whatever:
+
+monkeys:
+
+foo:
+
+bar:
